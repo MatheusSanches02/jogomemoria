@@ -2,11 +2,6 @@
 
 JOGO DA MEMORIA - COM ARDUINO E SERIAL
 
-
-
-Arnaldo Viana @2021
-
-inspirado em: http://jeknowledge.github.io/academy-articles/jogo-da-memoria
 */
 
 String recebido;
